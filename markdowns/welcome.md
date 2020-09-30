@@ -11,6 +11,12 @@ The source code is on [GitHub](https://github.com/TechDotIO/php-template), pleas
 
 Check out the markdown file [`welcome.md`]() to see how this exercise is injected into the template.
 
+# Hands-on Demo 2
+
+@[Luke, how many stars there are in these galaxies?]({"stubs": ["Universe2.php"], "command": "/bin/bash run.sh"})
+
+Check out the markdown file [`welcome.md`]() to see how this exercise is injected into the template.
+
 # Template Resources
 
 [`markdowns/welcome.md`](https://github.com/TechDotIO/php-template/blob/master/markdowns/welcome.md)  
