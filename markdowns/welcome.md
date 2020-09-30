@@ -13,7 +13,8 @@ Check out the markdown file [`welcome.md`]() to see how this exercise is injecte
 
 # Hands-on Demo 2
 
-@[Luke, how many stars there are in these galaxies?]({"stubs": ["Universe.php"], "command": "/bin/bash run.sh"})({"stubs": ["Universe.php"], "command": "/bin/bash run.sh"})
+@[Luke, how many stars there are in these galaxies?]({"stubs": ["Universe.php"], "command": "/bin/bash run.sh"})
+@[Luke, how many stars there are in these galaxies2?]({"stubs": ["Universe.php"], "command": "/bin/bash run.sh"})
 
 
 Check out the markdown file [`welcome.md`]() to see how this exercise is injected into the template.
